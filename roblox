@@ -5,3 +5,8 @@ loadstring(game:HttpGet("https://github.com/Basicallyy/Basicallyy/raw/main/Min_S
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Yatsuraa/Matsune/main/Matsunebeta.lua"))()
 
 https://drive.google.com/file/d/1wzvCigs202EyDfeyABrpl2rHddhb4ZG2/view?usp=drivesdk
+
+getgenv().Key = "1daaaa63a6b8c5b3ad9b4d79"
+getgenv().OldBanana = false
+repeat task.wait() until game:IsLoaded()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/obiiyeuem/vthangsitink/main/BananaHub.lua"))()
