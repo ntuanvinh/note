@@ -1,6 +1,4 @@
-vegax: https://drive.google.com/file/d/1SdG5ihKyxLJBiZIj2UJ7xZvWuJ87u_YC/view?usp=drivesdk
-
-delta: https://drive.google.com/file/d/1ng-rD6gMvI5MZ5n-2a-HffqjTBxDE_uF/view?usp=sharing
+cryptic: https://drive.google.com/file/d/1TX2K5Dq6zGTKeCcxqCSZU_lx8VwfUhfr/view?usp=drivesdk
 
 loadstring(game:HttpGet("https://github.com/Basicallyy/Basicallyy/raw/main/Min_Sir.lua"))()
 
