@@ -1,4 +1,4 @@
-cryptic: https://drive.google.com/file/d/1TX2K5Dq6zGTKeCcxqCSZU_lx8VwfUhfr/view?usp=drivesdk
+fluxus: https://drive.google.com/file/d/1Za92sauufn_w0GFjhTEaOQcLPARA1oz9/view?usp=drivesdk
 
 loadstring(game:HttpGet("https://github.com/Basicallyy/Basicallyy/raw/main/Min_Sir.lua"))()
 
