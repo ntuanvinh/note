@@ -1,4 +1,6 @@
-fluxus: https://drive.google.com/file/d/1Za92sauufn_w0GFjhTEaOQcLPARA1oz9/view?usp=drivesdk
+fluxus: https://drive.google.com/file/d/1VGCVoXU0VcyM9MGHKvfpecc-6cCJy5AI/view?usp=drivesdk
+
+script admin: loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
 
 loadstring(game:HttpGet("https://github.com/Basicallyy/Basicallyy/raw/main/Min_Sir.lua"))()
 
