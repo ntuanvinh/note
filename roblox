@@ -10,6 +10,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Yatsuraa/Matsune/main
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()
 
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3b2169cf53bc6104dabe8e19562e5cc2.lua"))()
+
 nighthub đã bay màu loadstring(game:HttpGet("https://raw.githubusercontent.com/NIGHTHUBONTOP/Main/main/LoaderScript.lua"))()
 
 https://drive.google.com/file/d/1wzvCigs202EyDfeyABrpl2rHddhb4ZG2/view?usp=drivesdk
