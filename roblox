@@ -1,6 +1,6 @@
 fluxus: https://drive.google.com/file/d/1PeRfDMJ953X9b3YNrdClCZRuOR7SdOTN/view?usp=drive_link
 
-cubix: https://drive.google.com/file/d/1NxZAr9_jul2A23zaqxmkfoUtyU7_Qy_N/view?usp=drive_link
+cubix: https://drive.google.com/file/d/1sMoZwx5Wd436k3Fkiod-v6Ziykv5M3Ak/view?usp=drive_link
 
 script admin: loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
 
