@@ -24,3 +24,7 @@ banana hub (not working):
 _G.Key = "AfxcaxiRoblox"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/RafakjRoblox/Crack/main/Banana%20No%20Key"))()
 
+v4
+_G.HohoVersion = "v4"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI"))()
+
