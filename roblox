@@ -16,6 +16,8 @@ matsune beta:loadstring(game:HttpGet("https://raw.githubusercontent.com/Yatsuraa
 
 metsuna v3: loadstring(game:HttpGet("https://raw.githubusercontent.com/Yatsuraa/Matsune/main/MatsuneV3.lua"))()
 
+redzhub: loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
+
 hoho hub: loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()
 
 w-azure: loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3b2169cf53bc6104dabe8e19562e5cc2.lua"))()
