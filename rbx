@@ -1,31 +1,6 @@
-Link Fluxus Ugphone + Now GG ( ĐÃ UPDATE V2.624 ) :
+Fluxus apk (2.640):
 
-https://modsfire.com/9mg82c5GBCerkB4
-
-
-
-Link Delta Nokey Ugphone + Now GG ( ĐÃ UPDATE V2.624 ) :
-
-https://modsfire.com/bM1BwVwCcltbok8
-
-
-
-Link Arceus X Neo + NOW GG ( ĐÃ UPDATE V2.623 ) :
-
-https://modsfire.com/d3150j4J0Vs9GVc
-
-
-
-Link CodeX Ugphone + Now GG ( ĐÃ UPDATE V2.623 ) :
-
-https://modsfire.com/2ZBW3II5NB01nw6
-
-
-
-Link Evon Ugphone + Now GG ( ĐÃ UPDATE V2.620 ) :
-
-https://www.mediafire.com/file/zr9ies8qz2wqxd7/Evon+Cloud.apk/file
-
+https://www.mediafire.com/file/0eugzrkscnowgwg/Fluxus_v2.639.688_%252864bit%2529.apk/file?dkey=9b0c2ko1r6m&r=533
 
 
 Nova Laucher :
