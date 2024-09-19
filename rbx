@@ -2,6 +2,10 @@ Fluxus apk (2.641):
 https://modsfire.com/V2H5hV0Y40KTXxH
 
 
+Arceus apk:
+https://www.mediafire.com/file/esxpnu59odtrwfd/Roblox_Arceus_X_NEO_1.4.2.apk/file
+
+
 Nova Laucher :
 https://www.mediafire.com/file/b7gs6ck6al2gkmm/NovaLauncher_7.0.58.apk/file
 
