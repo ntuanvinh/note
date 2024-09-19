@@ -1,5 +1,5 @@
-Fluxus apk (2.640):
-https://www.mediafire.com/file/0eugzrkscnowgwg/Fluxus_v2.639.688_%252864bit%2529.apk/file?dkey=9b0c2ko1r6m&r=533
+Fluxus apk (2.641):
+https://modsfire.com/V2H5hV0Y40KTXxH
 
 
 Nova Laucher :
