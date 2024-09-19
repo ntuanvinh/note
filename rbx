@@ -5,6 +5,7 @@ https://modsfire.com/V2H5hV0Y40KTXxH
 Arceus apk:
 https://www.mediafire.com/file/esxpnu59odtrwfd/Roblox_Arceus_X_NEO_1.4.2.apk/file
 
+https://modsfire.com/61vl995tv9lX11P
 
 Nova Laucher :
 https://www.mediafire.com/file/b7gs6ck6al2gkmm/NovaLauncher_7.0.58.apk/file
