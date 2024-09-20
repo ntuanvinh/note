@@ -1,6 +1,8 @@
 Fluxus apk (2.641):
 https://modsfire.com/V2H5hV0Y40KTXxH
 
+https://www.mediafire.com/file/1qll8g3wuqollri/FLUX+executor(moew+vers)+64bit.apk/file
+
 
 Arceus apk:
 https://www.mediafire.com/file/esxpnu59odtrwfd/Roblox_Arceus_X_NEO_1.4.2.apk/file
