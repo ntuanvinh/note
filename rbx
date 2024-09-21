@@ -1,7 +1,7 @@
 Fluxus apk (2.641):
 https://modsfire.com/V2H5hV0Y40KTXxH
 
-https://www.mediafire.com/file/1qll8g3wuqollri/FLUX+executor(moew+vers)+64bit.apk/file
+https://www.mediafire.com/file/k4454azyn16begb/Fluxus_v2.642.635_%252864bit%2529.apk/file
 
 
 Arceus apk:
